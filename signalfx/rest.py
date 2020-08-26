@@ -23,7 +23,7 @@ class SignalFxRestClient(object):
     _DATALINK_ENDPOINT_SUFFIX = 'v2/crosslink'
     _METRIC_ENDPOINT_SUFFIX = 'v2/metric'
     _DIMENSION_ENDPOINT_SUFFIX = 'v2/dimension'
-    _DETECTOR_ENDPOINT_SUFFIX = 'v2/detector'
+    _DETECTOR_ENDPOINT_SUFFIX = 'v1/detector'
     _INCIDENT_ENDPOINT_SUFFIX = 'v2/incident'
     _MTS_ENDPOINT_SUFFIX = 'v2/metrictimeseries'
     _TAG_ENDPOINT_SUFFIX = 'v2/tag'
